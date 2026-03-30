@@ -1,4 +1,5 @@
 <div align="center">
+<img width="350" height="95" alt="Image" src="https://github.com/user-attachments/assets/15e53417-f662-4fec-9d55-007aa5f3c608" />
 
 # Soap Sales Performance Report
 
@@ -29,8 +30,12 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 
 # 📊 Executive Summary
 
+### Sales Revenue Trends (2022–2024)
+
+<img width="1525" height="689" alt="Image" src="https://github.com/user-attachments/assets/6dfa2be4-8f16-46c9-94d5-91ccf0072f54" />
+
 </div>
-**Sales Revenue Trends (2022–2024)**
+
 
 ### 1. Revenue Stability & Overall Range
 
@@ -61,6 +66,12 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 
 # Insight Deep-Dive
 # Sales Trend
+
+<img width="320" height="260" alt="Image" src="https://github.com/user-attachments/assets/96acda6e-4e00-44e9-b5a6-a28b7ea4cae5" />
+
+<img width="320" height="260" alt="Image" src="https://github.com/user-attachments/assets/022b73af-04d0-45ff-812b-f1c676c88879" />
+
+<img width="320" height="260" alt="Image" src="https://github.com/user-attachments/assets/f89db25b-adca-4f64-829b-001f550c7755" />
 
 </div>
 
@@ -112,6 +123,9 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 
 # Product Performance
 
+
+<img width="1526" height="683" alt="Image" src="https://github.com/user-attachments/assets/4a4d6f3a-3b60-4ce7-bcc5-7c0279e84b51" />
+
 </div>
 
 ### Soap Brand Performance
@@ -131,8 +145,6 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 4.	This suggests that the content/marketing team has improved in providing product information, so customers do not feel “misled” when the item arrives.
 5.	“Wrong Item” has consistently been the lowest reason for returns every year.
 6.	This is evidence that the warehouse operations team performs the most consistently and rarely makes mistakes compared to issues with product quality itself.
-  
----
 
 ### Price Heatmap Findings
 
@@ -142,10 +154,20 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 4.	In Q4 2024, almost all prices dropped, except for EcoWash.
 
 ---
+
+<div align="center">
+
+<img width="446" height="300" alt="Image" src="https://github.com/user-attachments/assets/a874799e-4858-4303-82ab-9b4dbc4db7e6" />
+
+<img width="446" height="300" alt="Image" src="https://github.com/user-attachments/assets/39cda21b-3959-46f9-917e-c781b76c046c" />
+
+</div>
+---
 <div align="center">
 
 # Operational Efficiency
 
+<img width="1414" height="688" alt="Image" src="https://github.com/user-attachments/assets/dc0c8b5a-9c05-4427-a9ed-473941ae795c" />
 </div>
 
 ### Shipping Performance
@@ -153,18 +175,19 @@ Reporting to the **Head of Operations**, an in-depth analysis was conducted to e
 ### Air
 Tends to be the most stable mode of transport among the three, with more controlled fluctuations.
 It appears to be the highest during certain periods (mid-2022 & early 2023), indicating customer confidence in air shipping for urgent needs.
-
 ### Land
 It is the most volatile mode, with the most extreme peaks and troughs, dropping to ~300,000 in February 2022 and February 2023.
 It often reaches its lowest point at the troughs, but can also reach its highest point at certain peaks.
 It shows high sensitivity to changes in demand—likely more influenced by ground operational conditions (weather, infrastructure, etc.).
-
 ### Sea
 Consistently shows the highest peaks, reaching ~390,000 in July 2022 and September–October 2024.
 Sea patterns tend to lag slightly behind Air and Land, which is common due to longer maritime shipping lead times.
 It is the preferred mode for high volumes likely because it is more cost-efficient for bulk shipments. 
 
 ---
+<div align="center">
+<img width="756" height="449" alt="Image" src="https://github.com/user-attachments/assets/90fcd964-8681-4a67-b594-c6e5e4f2a734" />
+</div>
 
 ### Discount Impact
 
@@ -180,6 +203,7 @@ The largest discount (20%) actually generated the lowest volume of all. This is 
 
 # Regional Results
 
+<img width="735" height="447" alt="Image" src="https://github.com/user-attachments/assets/5213b412-17c8-4bd8-ba72-63f630b535f9" />
 </div>
 
 ### Revenue by Export Country
